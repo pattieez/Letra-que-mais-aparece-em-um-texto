@@ -1,4 +1,4 @@
-frase = input('Informe um texto para saber qual é a letra que mais aparece: \n')
+frase = input('Informe um texto para saber qual é a letra que mais aparece: ')
 
 i = 0
 apareceu_mais_vezes = 0
